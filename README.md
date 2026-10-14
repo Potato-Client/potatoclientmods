@@ -1,6 +1,6 @@
 # Potato Client Mods
 
-Potato Client currently includes these 40 mods, listed in the official order:
+Potato Client currently includes these **41 mods**, listed in the official order:
 
 1. Armor HUD
 2. Biome Display
@@ -25,23 +25,24 @@ Potato Client currently includes these 40 mods, listed in the official order:
 21. Keystrokes
 22. Light Level
 23. Looking at Block
-24. Motion Blur
-25. Particles
-26. Ping
-27. Potion Glint
-28. Reach Display
-29. Scoreboard
-30. Self Nametag
-31. Server IP
-32. Speedometer
-33. Stopwatch
-34. TNT Timer
-35. Toggle Sprint
-36. Tooltip Scrolling
-37. Totem Counter
-38. TPS
-39. Uptime
-40. Zoom
+24. Minimap
+25. Motion Blur
+26. Particles
+27. Ping
+28. Potion Glint
+29. Reach Display
+30. Scoreboard
+31. Self Nametag
+32. Server IP
+33. Speedometer
+34. Stopwatch
+35. TNT Timer
+36. Toggle Sprint
+37. Tooltip Scrolling
+38. Totem Counter
+39. TPS
+40. Uptime
+41. Zoom
 
 ---
 
