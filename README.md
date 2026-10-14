@@ -25,7 +25,6 @@ Potato Client currently includes these **41 mods**, listed in the official order
 21. Keystrokes
 22. Light Level
 23. Looking at Block
-24. Minimap
 25. Motion Blur
 26. Particles
 27. Ping
