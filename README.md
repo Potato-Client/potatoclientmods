@@ -1,13 +1,13 @@
 # Potato Client Mods
 
-Potato Client currently includes these **41 mods**, listed in the official order:
+Potato Client currently includes these **42 mods**, listed in alphabetical order:
 
 1. Armor HUD
 2. Biome Display
 3. Block Overlay
 4. Bossbar
-5. Clock
-6. IRL Date
+5. Chat Heads
+6. Clock
 7. Combo Counter
 8. Coordinates
 9. Copy Chat
@@ -21,10 +21,11 @@ Potato Client currently includes these **41 mods**, listed in the official order
 17. Freecam
 18. Freelook
 19. Fullbright
-20. Item Physics
-21. Keystrokes
-22. Light Level
-23. Looking at Block
+20. IRL Date
+21. Item Physics
+22. Keystrokes
+23. Light Level
+24. Looking at Block
 25. Motion Blur
 26. Particles
 27. Ping
